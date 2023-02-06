@@ -5,8 +5,7 @@
 ```bash
 # Proyecto en curso...
 ```
-# Private Teacher App - Demo 
-<a href="/LICENSE"><img src="https://img.shields.io/badge/licencia-MIT-red.svg" alt="licencia" /></a>
+# Private Teacher App - Demo <a href="/LICENSE"><img src="https://img.shields.io/badge/licencia-MIT-red.svg" alt="licencia" /></a>
 Parte Front-End@Aplicacion para reservacion de servicio de enseñanaza virtual
 
 <p align="center"> 
